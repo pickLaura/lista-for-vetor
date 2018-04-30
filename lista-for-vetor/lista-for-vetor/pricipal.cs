@@ -10,10 +10,13 @@ namespace lista_for_vetor
     {
         static void Main(string[] args)
         {
-            //new exercicio1();
-          // new exercicio2();
-           //new exercicio3();
-            new exercicio4();
+               //new exercicio1();
+              // new exercicio2();
+             //new exercicio3();
+            //new exercicio4();
+           // new exercicio5();
+          new exercicio6(); 
+          //  new exercicio7();
         }
     }
 }

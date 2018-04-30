@@ -45,6 +45,9 @@
     <Compile Include="exercicio2.cs" />
     <Compile Include="exercicio3.cs" />
     <Compile Include="exercicio4.cs" />
+    <Compile Include="exercicio5.cs" />
+    <Compile Include="exercicio6.cs" />
+    <Compile Include="exercicio7.cs" />
     <Compile Include="pricipal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
